@@ -57,6 +57,6 @@ python manage.py runserver
 - HTML/CSS - для создания пользовательского интерфейса
 
   # Сайты
--[dma.pythonanywhere.com](https://dma.pythonanywhere.com/)
-[]
--Google Docs https://docs.google.com/document/d/1-UciHNLhO-qybxnYrKQYBorEaBkzgTmc5K_reYBSxWA/edit?usp=sharing
+### [dma.pythonanywhere.com](https://dma.pythonanywhere.com/)
+
+### Google Docs https://docs.google.com/document/d/1-UciHNLhO-qybxnYrKQYBorEaBkzgTmc5K_reYBSxWA/edit?usp=sharing
